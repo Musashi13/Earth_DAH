@@ -12,4 +12,8 @@ From each according to their own ability, to each according to their own needs, 
 * Concensed, weighed pollutants at whitelisted weigh station
 * Concensed, numbered items counted by whitelisted recycling center
 
+### Possible **P**roofs of **I**mpact
+* Provide resources for restoration projects
+* 
+
 https://twitter.com/dao_earth
