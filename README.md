@@ -6,6 +6,6 @@ A network incentivizing inhabitants of planet Earth to restore her to a healthy 
 
 With a gamified framework we will make it fun to level up in the game of restoring planet Earth
 
-Those who may not be able to get out and do the physical labor required for restoration will be able to fund those who can
+Those who may not be able to get out and do the physical labor required for restoration will be able to make the resources available and help create value within this ecosystem in a number of ways
 
 https://twitter.com/dao_earth
