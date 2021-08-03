@@ -1,7 +1,6 @@
 # Earth_DAH
 **D**ecentralized **A**utonomous **H**umanity
-## A network that runs on **P**o**R** (**P**roof of **R**estoration)
-## **P**o**I** (**P**roof of **I**mpact)
+## A network that runs on **P**o**R** (**P**roof of **R**estoration) and **P**o**I** (**P**roof of **I**mpact)
 
 A network incentivizing inhabitants of planet Earth to restore her to a healthy state
 
