@@ -6,6 +6,6 @@ A network incentivizing inhabitants of planet Earth to restore her to a healthy 
 
 With a gamified framework we will make it fun to level up in the game of restoring planet Earth
 
-From each according to their own ability, to each according to their own needs
+From each according to their own ability, to each according to their own needs, they may restore the Earth
 
 https://twitter.com/dao_earth
