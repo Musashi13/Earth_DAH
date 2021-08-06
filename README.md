@@ -11,14 +11,15 @@ From each according to their own ability, to each according to their own needs, 
 ### Possible **P**roofs of **R**estoration
 * Concensed, weighed pollutants at whitelisted weigh station
 * Concensed, numbered items counted by whitelisted recycling center
-
+*
+ 
 ### Possible **P**roofs of **I**mpact
-* Provide resources for restoration projects
+* Provided resources for restoration projects
 * 
 
-## NFTs
+### NFTs
 
-- Founder flute (Motor)- *8 Flutes*
-- Super supporter (Gears)- *1 flute with 13 Layers~* **ASYNC ART**
+- Founder flute (SEEDS)- *8 Flutes*
+- Super supporter (ROOTS)- *1 flute with 13 Layers~* **ASYNC ART**
 
 https://twitter.com/Earth_DAH
