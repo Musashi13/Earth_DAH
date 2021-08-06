@@ -18,10 +18,7 @@ From each according to their own ability, to each according to their own needs, 
 
 ## NFTs
 
-- Supporter flutes- *8 Flutes*
-- Super supporter- *1 flute with 13 Layers~* **ASYNC ART**
-
-
-
+- Founder flute (Motor)- *8 Flutes*
+- Super supporter (Gears)- *1 flute with 13 Layers~* **ASYNC ART**
 
 https://twitter.com/Earth_DAH
