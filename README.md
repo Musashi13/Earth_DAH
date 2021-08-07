@@ -22,6 +22,13 @@ From each according to their own ability, to each according to their own needs, 
 - Founder flute (SEEDS)- *8 Flutes*
 - Super supporter (ROOTS)- *1 flute with 13 Layers~* **ASYNC ART**
 - CRAFT is the root of the craft/experience/skills tree that gives access to claim your role of your particular craft that you provide to the community/ecosystem
+ 1. MUSIC
+ 2. TEXTILE
+ 3. PERFORM
+ 4. DEV
+ 5. ART
+ 6. WRITE
+ 7. 
 
 **TRASH**
  1. TRASH
