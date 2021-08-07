@@ -11,7 +11,7 @@ From each according to their own ability, to each according to their own needs, 
 ### Possible **P**roofs of **R**estoration
 * Concensed, weighed pollutants at whitelisted weigh station
 * Concensed, numbered items counted by whitelisted recycling center
-* Time measured by blockchain in epochs (starts when token is claimed; ends when token burned) and verified by weight (reflected in volume and impact) rewarded with ***CRAFT TRASH token***
+* Time measured by blockchain in epochs (starts when token is claimed; ends when token burned) and verified by weight (reflected in volume and impact) rewarded with ***TRASH token***
  
 ### Possible **P**roofs of **I**mpact
 * Provided resources for whitelisted restoration projects
@@ -34,6 +34,7 @@ From each according to their own ability, to each according to their own needs, 
  1. TRASH
  2. etc
 - Weight / time = amount of TRASH token
+**The bigger the pile the stronger the magic**
 
 ### Gamification
 
