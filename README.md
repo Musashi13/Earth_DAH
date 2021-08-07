@@ -24,13 +24,13 @@ From each according to their own ability, to each according to their own needs, 
 - Founder flute (SEEDS)- *8 Flutes*
 - Super supporter (ROOTS)- *1 flute with 13 Layers~* **ASYNC ART**
 - CRAFT is the root of the craft/experience/skills tree that gives access to claim your role of your particular craft that you provide to the community/ecosystem
-  1. MUSIC
-  2. TEXTILE
-  3. PERFORM
-  4. DEV
-  5. ART
-  6. WRITE
-  7. 
+ 1. MUSIC
+ 2. TEXTILE
+ 3. PERFORM
+ 4. DEV
+ 5. ART
+ 6. WRITE
+ 7. 
 
 **TRASH**
 
@@ -59,8 +59,8 @@ From each according to their own ability, to each according to their own needs, 
 ### Possible Partnerships
 
 - MetaGame
-  1. MG owns and runs recyling facility for plasitcs to be recycled and used in 3-D printers for MG product production in the real world
-  2. MG takes in TRASH nft and recycles it giving the user PFUEL to be used in 4-D printers in game. PFUEL fuels the 4-D printers to produce a pixel block or build a wall, or any other item; why even hot-dog can be made with PFUEL.
+ 1. MG owns and runs recyling facility for plasitcs to be recycled and used in 3-D printers for MG product production in the real world
+ 2. MG takes in TRASH nft and recycles it giving the user PFUEL to be used in 4-D printers in game. PFUEL fuels the 4-D printers to produce a pixel block or build a wall, or any other item; even hot-dog can be made with PFUEL.
 - Plastic Bank
 - 
 
