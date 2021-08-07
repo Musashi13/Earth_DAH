@@ -17,13 +17,11 @@ From each according to their own ability, to each according to their own needs, 
 * Provided resources for whitelisted restoration projects
 * 
 
-### NFTs
+### ERC-721s
 
 - Founder flute (SEEDS)- *8 Flutes*
 - Super supporter (ROOTS)- *1 flute with 13 Layers~* **ASYNC ART**
 - CRAFT is the root of the craft/experience/skills tree that gives access to claim your role of your particular craft that you provide to the community/ecosystem
-
-### Token
 
 **TRASH**
  1. TRASH
