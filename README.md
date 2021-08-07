@@ -39,10 +39,10 @@ From each according to their own ability, to each according to their own needs, 
 
 ### Gamification
 
-Each trash items collected in the real world represent a resource in the game 
-The items usage in game represents how much of that item is most prevalent in the real world environment
-If there is more in the real world, it will be a more prevalent item in game and have more use case for smaller objectives
-If there is very little in the environment, it will be used less in the game for larger objectives
+- Each trash items collected in the real world represent a resource in the game 
+- The items usage in game represents how much of that item is most prevalent in the real world environment
+- If there is more in the real world, it will be a more prevalent item in game and have more use case for smaller objectives
+- If there is very little in the environment, it will be used less in the game for larger objectives
 
 
 https://twitter.com/Earth_DAH
