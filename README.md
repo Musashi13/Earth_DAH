@@ -13,16 +13,17 @@ From each according to their own ability, to each according to their own needs, 
 ### Possible **P**roofs of **R**estoration
 - Concensed, weighed pollutants at whitelisted weigh station
 - Concensed, numbered items counted by whitelisted recycling center
-- Time measured by blockchain in epochs (starts when token is claimed; ends when token burned) and verified by weight (reflected in volume and impact time) rewarded with ***TRASH token***
+- Time measured by blockchain in epochs (starts when token minted; ends when token burned) and verified by weight (reflected in volume and impact time) rewarded with ***TRASH token***
+- Multipliers for working with multiple people
  
 ### Possible **P**roofs of **I**mpact
-- Provided resources for whitelisted restoration projects
+- Provid resources for whitelisted restoration projects
 - 
 
 ### ERC-721s
 
-- Founder flute (SEEDS)- *8 Flutes*
-- Super supporter (ROOTS)- *1 flute with 13 Layers~* **ASYNC ART**
+- Founder flute (SEEDS)- *8 flutes; physical and NFT*
+- Super supporter (ROOTS)- *1 flute NFT with 13 Layers~* **ASYNC ART**
 - CRAFT is the root of the craft/experience/skills tree that gives access to claim your role of your particular craft that you provide to the community/ecosystem
  1. MUSIC
  2. TEXTILE
