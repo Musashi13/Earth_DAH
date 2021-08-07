@@ -21,12 +21,11 @@ From each according to their own ability, to each according to their own needs, 
 
 - Founder flute (SEEDS)- *8 Flutes*
 - Super supporter (ROOTS)- *1 flute with 13 Layers~* **ASYNC ART**
+- CRAFT is the root of the craft/experience/skills tree that gives access to claim your role of your particular craft that you provide to the community/ecosystem
 
 ### Token
 
-**CRAFT**
-- ERC-721 token that represents one's craft, skill, experience
-- Separate tokens for each craft
+**TRASH**
  1. TRASH
  2. etc
 - Weight / time = amount of TRASH token
