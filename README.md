@@ -34,6 +34,7 @@ From each according to their own ability, to each according to their own needs, 
  1. TRASH
  2. etc
 - Weight / time = amount of TRASH token
+
 **The bigger the pile the stronger the magic**
 
 ### Gamification
