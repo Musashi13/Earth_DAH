@@ -56,4 +56,12 @@ From each according to their own ability, to each according to their own needs, 
 - Plastic straw
 - 
 
+### Possible Partnerships
+
+- MetaGame
+  1. MG owns and runs recyling facility for plasitcs to be recycled and used in 3-D printers for product production in the real world
+  2. MG takes in TRASH nft and recycles it giving the user PFUEL to be used in 4-D printers in game. PFUEL fuels the 4-D printers to produce a pixel block or build a wall, or any other item; why even hot-dog can be made with PFUEL.
+- Plastic Bank
+- 
+
 https://twitter.com/Earth_DAH
