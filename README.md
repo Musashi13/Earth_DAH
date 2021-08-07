@@ -17,7 +17,7 @@ With a gamified framework we will make it fun to level up in the game of restori
 - Multipliers for working with multiple people
  
 ### Possible **P**roofs of **I**mpact
-- Provid resources for whitelisted restoration projects
+- Provide resources for whitelisted restoration projects
 - 
 
 ### ERC-721s
