@@ -11,15 +11,32 @@ From each according to their own ability, to each according to their own needs, 
 ### Possible **P**roofs of **R**estoration
 * Concensed, weighed pollutants at whitelisted weigh station
 * Concensed, numbered items counted by whitelisted recycling center
-*
+* Time measured by blockchain in epochs (starts when token is claimed; ends when token burned) and verified by weight (reflected in volume and impact) rewarded with ***CRAFT TRASH token***
  
 ### Possible **P**roofs of **I**mpact
-* Provided resources for restoration projects
+* Provided resources for whitelisted restoration projects
 * 
 
 ### NFTs
 
 - Founder flute (SEEDS)- *8 Flutes*
 - Super supporter (ROOTS)- *1 flute with 13 Layers~* **ASYNC ART**
+
+### Token
+
+**CRAFT**
+- ERC-721 token that represents one's craft, skill, experience
+- Separate tokens for each craft
+ 1. TRASH
+ 2. etc
+- Weight / time = amount of TRASH token
+
+### Gamification
+
+Each trash items collected in the real world represent a resource in the game 
+The items usage in game represents how much of that item is most prevalent in the real world environment
+If there is more in the real world, it will be a more prevalent item in game and have more use case for smaller objectives
+If there is very little in the environment, it will be used less in the game for larger objectives
+
 
 https://twitter.com/Earth_DAH
