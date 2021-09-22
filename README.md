@@ -29,7 +29,7 @@ With a gamified framework we will make it fun to level up in the game of restori
 - CRAFT is the root of the craft/experience/skills tree that gives access to claim your role of your particular craft that you provide to the community/ecosystem
   1. MUSIC
   2. TEXTILE
-  3. PERFORM
+  3. PERFORMANCE
   4. DEV
   5. ART
   6. WRITE
